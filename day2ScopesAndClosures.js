@@ -161,7 +161,7 @@ for (var i = 0; i < testArr.length; i++) {
 // Let's put that pattern to use!
   // Create an empty array called closureFuncs. 
   // Create a new for loop. 
-  // Let's create a new iSaver function for every even i in the array, and push that function into closureFuncs. 
+  // Let's create a new iSaver function for every even i in the testArr array, and push that function into closureFuncs. 
   // Then, once you're done with the entire for loop, log what the value of i is outside the for loop. 
   // And then go through and invoke each function in our closureFuncs array. 
   // Remember, when in doubt, console.log things with labels!
